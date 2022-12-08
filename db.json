@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Test Todo 1",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "Test Todo 2",
+      "isComplete": true
+    },
+    {
+      "id": 4,
+      "name": "Setup fetch",
+      "isComplete": true
+    }
+  ]
+}
